@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Enthusiasts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Mở navigation drawer</string>
+    <string name="navigation_drawer_close">Đóng navigation drawer</string>
+
+    <string name="strHeaderPersonal">Cá nhân</string>
+    <string name="strHeaderHomePage">Trang chủ</string>
+    <string name="strHeaderSearch">Tìm kiếm</string>
+
+    <string name="strSignInDetail">Quản lý tài khoản, kiểm tra thông báo, tương tác, bình luân trên các bài hát, v.v.</string>
+    <string name="strSignUpDetail">Tạo hồ sơ, theo dõi các tài khoản khác, nghe nhạc của chính bạn, v.v.</string>
+    <string name="strTermsAndPermissions">Bằng cách tiếp tục, bạn đồng ý với Điều khoản dịch vụ của chúng tôi và thừa nhận rằng bạn đã đọc Chính sách Quyền riêng tư để tìm hiểu cách chúng tôi thu thập, sử dụng và chia sẽ dữ liệu của bạn.</string>
+    <string name="strPrivacyPolicy">Chính sách Quyền riêng tư</string>
+    <string name="strTermsOfService">Điều khoản dịch vụ</string>
+
+    <string name="strUseEmail">Sử dụng với Email</string>
+    <string name="strContinueGoogle">Tiếp tục với Google</string>
+    <string name="strContinueFacebook">Tiếp tục với Facebook</string>
+    <string name="strContinueTwitter">Tiếp tục với Twitter</string>
+    <string name="strContinueInstagram">Tiếp tục với Instagram</string>
+    <string name="strContinueLine">Tiếp tục với Line</string>
+
+    <string name="strHeaderSignIn">Đăng nhập</string>
+    <string name="strHeaderSignUp">Đăng ký</string>
+    <string name="strHeaderEmail">Email</string>
+    <string name="strHeaderPassword">Mật khẩu</string>
+    <string name="strHintEmail">Nhập vào email</string>
+    <string name="strHintPassword">Nhập vào mật khẩu</string>
+
+    <string name="strIsSignIn">Mới đến </string>
+    <string name="strIsSignUp">Đã liên kết với </string>
+
+    <string name="strSignInFailed">Đăng nhập thất bại. Vui lòng thử lại hoặc </string>
+    <string name="strSignUpFailed">Đăng ký thất bại. Vui lòng thử lại hoặc </string>
+    <string name="strSignUpSuccess">Đăng ký thành công! </string>
+
+    <string name="strHeaderAccount">Tài khoản</string>
+    <string name="strHeaderMyProfile">Hồ sơ của tôi</string>
+    <string name="strHeaderChangePassword">Thay đổi mật khẩu</string>
+    <string name="strHeaderSignout">Đăng xuất</string>
+
+    <string name="strHeaderLibrary">Thư viện</string>
+    <string name="strHeaderSong">Bài hát</string>
+    <string name="strHeaderOnDevice">Trên thiết bị</string>
+    <string name="strHeaderPlaylist">Danh sách nhạc</string>
+    <string name="strHeaderHistory">Bài hát gần đây</string>
+    <string name="strCreatePlaylist">Tạo mới danh sách phát</string>
+    <string name="strUpdatePlaylist">Cập nhật danh sách phát</string>
+    <string name="strPlaylistName">Tên danh sách phát</string>
+    <string name="strHintPlaylistName">Nhập tên của danh sách phát</string>
+    <string name="strRequiredPassword">Sử dụng 6 ký tự trở lên cho mật khẩu của bạn</string>
+    <string name="strRequiredEmail">Địa chỉ email không hợp lệ</string>
+    <string name="noValue">Chưa có giá trị ban đầu</string>
+    <string name="strHeaderId">Id</string>
+    <string name="strHeaderUsername">Tên người dùng</string>
+    <string name="strHeaderPhone">Số điện thoại</string>
+    <string name="strHeaderAvatar">Ảnh đại diện</string>
+    <string name="strHintId">Nhập vào id</string>
+    <string name="strHintUsername">Nhập vào tên người dùng</string>
+    <string name="strHintPhone">Nhập vào số điện thoại</string>
+    <string name="strHintAvatar">Nhập vào đường dẫn ảnh đại diện</string>
+
+    <string name="strHeaderAlbum">Album</string>
+    <string name="strHeaderName">Tên</string>
+    <string name="strHeaderImage">Hình ảnh</string>
+    <string name="strHeaderSinger">Ca sĩ</string>
+    <string name="strHeaderLinkSong">Đường dẫn nhạc</string>
+    <string name="strHeaderUser">Người dùng</string>
+    <string name="strHeaderBanner">Ảnh bìa</string>
+    <string name="strHeaderTheme">Chu đề</string>
+    <string name="strHeaderTypes">Thể loại</string>
+    <string name="strHintName">Nhập vào tên</string>
+    <string name="strHintImage">Nhập vào hình ảnh</string>
+    <string name="strHeaderDateCreated">Ngày tạo</string>
+    <string name="strHintSinger">Nhập vào ca sĩ</string>
+    <string name="strHintLinkSong">Nhập vào đường dẫn bài hát</string>
+    <string name="strHintDateCreated">Nhập vào ngày tạo</string>
+    <string name="strHeaderPermission">Quyền</string>
+    <string name="strHeaderAdmin">Người quản trị</string>
+    <string name="strBtnDelete">Xóa</string>
+    <string name="strBtnSave">Lưu</string>
+    <string name="strBtnAdd">Thêm</string>
+    <string name="strBtnCancel">Hủy bỏ</string>
+    <string name="strHeaderUserManager">Quản lý Người dùng</string>
+    <string name="strHeaderSongManager">Quản lý Bài hát</string>
+    <string name="strHeaderBannerManager">Quản lý Banner</string>
+    <string name="strHeaderAlbumManager">Quản lý Album</string>
+    <string name="strHeaderThemeManager">Quản lý Chủ đề</string>
+    <string name="strHeaderTypesManager">Quản lý Thể loại</string>
+    <string name="strHeaderPlaylistManager">Quản lý Danh sách phát</string>
+    <string name="todo">TODO</string>
+    <string name="strHeaderDownload">Tải xuống</string>
+    <string name="strHeaderAddToPlaylist">Thêm vào danh sách phát</string>
+    <string name="strHeaderAddToFavorites">Thêm vào yêu thích</string>
+    <string name="strNotifySuccessDownload">Đã tải xuống thành công bài hát</string>
+    <string name="strNotifyFailDownload">Đã tải xuống thất bại bài hát</string>
+    <string name="strHeaderRemoveFromPlaylist">Xóa khỏi danh sách phát này</string>
+    <string name="strSelectAll">Chọn tất cả</string>
+    <string name="strNotifyDeleteSongFromPlaylist">Bạn có muốn xóa bài hát này khỏi danh sách phát này không?</string>
+    <string name="strHeaderExplore">Khám phá</string>
+    <string name="strNotifyFailPlayMusic">Xảy ra lỗi khi phát bài hát này. Chúng tôi sẽ tự chuyển sang bài hát tiếp theo</string>
+    <string name="strNotifyDeleteObject">Bạn có muốn để xóa đối tượng này không?</string>
+    <string name="strTitleWarning">Cảnh báo</string>
+    <string name="strTitleInformation">Thông tin</string>
+    <string name="strTitleError">Lỗi</string>
+    <string name="strResultDialogYes">Đồng ý</string>
+    <string name="strResultDialogNo">Không</string>
+    <string name="strResultDialogCancel">Hủy bỏ</string>
+    <string name="strResultDialogOK">OK</string>
+
+    <string name="strNotifySuccessAdd">Đã thêm thành công</string>
+    <string name="strNotifyFailAdd">Đã thêm thất bại</string>
+
+    <string name="strNotifySuccessFixed">Đã sửa thành công</string>
+    <string name="strNotifyFailFixed">Đã sửa thất bại</string>
+
+    <string name="strNotifySuccessDelete">Đã xóa thành công</string>
+    <string name="strNotifyFailDelete">Đã xóa thất bại</string>
+    <string name="strHintNotTypeId">Trường này được tự động tạo bởi firebase</string>
+    <string name="strHeaderProfile">Hồ sơ</string>
+    <string name="strNotifyFail">Thành công</string>
+    <string name="strNotifySuccess">Thất bại</string>
+    <string name="strHeaderListOfSong">Danh sách các bài hát</string>
+    <string name="strNotifyComingSoon">Sắp có</string>
+    <string name="strNotifyActionError">Có lỗi xảy ra khi thực hiện hành động này</string>
+    <string name="strSelectImage">Chọn hình ảnh</string>
+    <string name="strRequiredUsername">Tên người dùng không hợp lệ</string>
+
+    <string name="strBtnUpdate">Cập nhật</string>
+    <string name="strBtnClose">Đóng</string>
+
+    <string name="strHeaderCurrentPassword">Mật khẩu hiện tại</string>
+    <string name="strHintCurrentPassword">Nhập mật khẩu hiện tại</string>
+    <string name="strHeaderNewPassword">NMật khẩu mới</string>
+    <string name="strHintNewPassword">Nhập mật khẩu mới</string>
+    <string name="strHintReEnterPassword">Nhập lại mật khẩu</string>
+</resources>

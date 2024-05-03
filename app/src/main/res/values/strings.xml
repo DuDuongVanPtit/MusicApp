@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">Music Enthusiasts</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="strHeaderAdmin">Admin</string>
+
+    <string name="strTitleWarning">Warning</string>
+    <string name="strTitleInformation">Information</string>
+    <string name="strTitleError">Error</string>
+
+    <string name="strResultDialogYes">Yes</string>
+    <string name="strResultDialogNo">No</string>
+    <string name="strResultDialogOK">OK</string>
+    <string name="strResultDialogCancel">Cancel</string>
+
+    <string name="strNotifySuccessDownload">Successfully downloaded the song</string>
+    <string name="strNotifyFailDownload">Failed to download the song</string>
+    <string name="strNotifyFailPlayMusic">An error occurred while playing this song. We\'ll move on to the next song ourselves</string>
+    <string name="strNotifyDeleteObject">Do you want to delete this object?</string>
+    <string name="strNotifyDeleteSongFromPlaylist">Do you want to remove this song from this playlist?</string>
+    <string name="strNotifyComingSoon">Coming soon</string>
+
+    <string name="strNotifySuccess">Successfully deleted</string>
+    <string name="strNotifyFail">Successfully deleted</string>
+
+    <string name="strNotifySuccessDelete">Successfully deleted</string>
+    <string name="strNotifyFailDelete">Successfully deleted</string>
+
+    <string name="strNotifySuccessAdd">Successfully added</string>
+    <string name="strNotifyFailAdd">Successfully added</string>
+
+    <string name="strNotifySuccessFixed">Successfully fixed</string>
+    <string name="strNotifyFailFixed">Successfully fixed</string>
+
+    <string name="strNotifyActionError">An error occurred while performing this action</string>
+
+    <string name="strSelectImage">Select Image</string>
+    
+    <string name="strBtnAdd">Add</string>
+    <string name="strBtnSave">Save</string>
+    <string name="strBtnUpdate">Update</string>
+    <string name="strBtnClose">Close</string>
+    <string name="strBtnCancel">Cancel</string>
+    <string name="strBtnDelete">Delete</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="strHeaderPersonal">Personal</string>
+    <string name="strHeaderHomePage">Home Page</string>
+    <string name="strHeaderSearch">Search</string>
+    <string name="strHeaderExplore">Explore</string>
+
+    <string name="strSignInDetail">Manage accounts, check notifications, interact, comment on songs, and more.</string>
+    <string name="strSignUpDetail">Create profiles, follow other accounts, listen to your own music, and more.</string>
+    <string name="strTermsAndPermissions">By continuing, you agree to our Terms of Service and acknowledge that you have read the Privacy Policy to learn how we collect, use and share your data.</string>
+    <string name="strPrivacyPolicy">Privacy Policy</string>
+    <string name="strTermsOfService">Terms of Service</string>
+
+    <string name="strUseEmail">Use with Email</string>
+    <string name="strContinueGoogle">Continue with Google</string>
+    <string name="strContinueFacebook">Continue with Facebook</string>
+    <string name="strContinueTwitter">Continue with Twitter</string>
+    <string name="strContinueInstagram">Continue with Instagram</string>
+    <string name="strContinueLine">Continue with Line</string>
+
+
+    <string name="strHeaderSignIn">Sign in</string>
+    <string name="strHeaderSignUp">Sign up</string>
+
+    <string name="strIsSignIn">Don\'t have an account?</string>
+    <string name="strIsSignUp">Already have an account?</string>
+
+    <string name="strSignInFailed">Sign in failed. Please try again or</string>
+    <string name="strSignUpFailed">Sign up failed. Please try again or</string>
+    <string name="strSignUpSuccess">Sign up success! </string>
+
+    <string name="strHeaderAccount">Account</string>
+    <string name="strHeaderMyProfile">My Profile</string>
+    <string name="strHeaderChangePassword">Change Password</string>
+    <string name="strHeaderSignout">Sign Out</string>
+
+    <string name="strHeaderLibrary">Library</string>
+    <string name="strHeaderOnDevice">On-device</string>
+    <string name="strHeaderHistory">Recent songs</string>
+
+    <string name="strCreatePlaylist">Create new playlist</string>
+    <string name="strUpdatePlaylist">Update playlist</string>
+    <string name="strPlaylistName">Playlist name</string>
+    <string name="strHintPlaylistName">Enter the name of the playlist</string>
+
+    <string name="strRequiredEmail">Invalid email address</string>
+    <string name="strRequiredPassword">Use 6 or more characters for your password</string>
+    <string name="strRequiredUsername">Invalid username</string>
+
+    <string name="noValue">No initial value yet</string>
+
+    <string name="strHeaderUser">User</string>
+    <string name="strHeaderSong">Song</string>
+    <string name="strHeaderBanner">Banner</string>
+    <string name="strHeaderAlbum">Album</string>
+    <string name="strHeaderTheme">Theme</string>
+    <string name="strHeaderTypes">Types</string>
+    <string name="strHeaderPlaylist">Playlist</string>
+
+    <string name="strHeaderUserManager">User Manager</string>
+    <string name="strHeaderSongManager">Song Manager</string>
+    <string name="strHeaderBannerManager">Banner Manager</string>
+    <string name="strHeaderAlbumManager">Album Manager</string>
+    <string name="strHeaderThemeManager">Theme Manager</string>
+    <string name="strHeaderTypesManager">Types Manager</string>
+    <string name="strHeaderPlaylistManager">Playlist Manager</string>
+
+    <string name="strHeaderId">Id</string>
+    <string name="strHeaderName">Name</string>
+    <string name="strHeaderImage">Image</string>
+
+    <string name="strHintId">Enter id</string>
+    <string name="strHintName">Enter name</string>
+    <string name="strHintImage">Enter image</string>
+
+    <string name="strHeaderUsername">Username</string>
+    <string name="strHeaderPassword">Password</string>
+    <string name="strHeaderEmail">Email</string>
+    <string name="strHeaderPhone">Phone</string>
+    <string name="strHeaderAvatar">Avatar</string>
+
+    <string name="strHintUsername">Enter username</string>
+    <string name="strHintPassword">Enter password</string>
+    <string name="strHintEmail">Enter email</string>
+    <string name="strHintPhone">Enter phone</string>
+    <string name="strHintAvatar">Enter link avatar</string>
+
+    <string name="strHeaderSinger">Singer</string>
+    <string name="strHeaderLinkSong">Link song</string>
+    <string name="strHeaderDateCreated">Date created</string>
+    <string name="strHeaderPermission">Permission</string>
+
+    <string name="strHintSinger">Enter singer</string>
+    <string name="strHintLinkSong">Link song</string>
+    <string name="strHintDateCreated">Date created</string>
+
+    <string name="strHeaderDownload">Download</string>
+    <string name="strHeaderAddToPlaylist">Add to Playlist</string>
+    <string name="strHeaderRemoveFromPlaylist">Remove from this playlist</string>
+    <string name="strHeaderAddToFavorites">Add to Favorites</string>
+
+    <string name="strSelectAll">Select all</string>
+
+    <string name="strHintNotTypeId">This field is automatically generated by firebase</string>
+
+    <string name="strHeaderProfile">Profile</string>
+    <string name="strHeaderListOfSong">List of songs</string>
+
+    <string name="strHeaderCurrentPassword">Enter current password</string>
+    <string name="strHintCurrentPassword">Re-enter the password</string>
+    <string name="strHeaderNewPassword">New password</string>
+    <string name="strHintNewPassword">Enter new the password</string>
+    <string name="strHintReEnterPassword">Re-enter the password</string>
+
+</resources>

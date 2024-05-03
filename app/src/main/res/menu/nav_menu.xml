@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_personal"
+            android:title="@string/strHeaderPersonal" />
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/strHeaderHomePage" />
+        <item
+            android:id="@+id/nav_search"
+            android:title="@string/strHeaderSearch" />
+        <item
+            android:id="@+id/nav_playlist"
+            android:title="@string/strHeaderPlaylist" />
+    </group>
+    <item android:title="@string/strHeaderAccount">
+        <menu>
+            <item
+                android:id="@+id/nav_myprofile"
+                android:title="@string/strHeaderMyProfile" />
+            <item
+                android:id="@+id/nav_changepassword"
+                android:title="@string/strHeaderChangePassword" />
+            <item
+                android:id="@+id/nav_signout"
+                android:title="@string/strHeaderSignout" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/nav_admin"
+        android:title="@string/strHeaderAdmin">
+        <menu>
+            <item
+                android:id="@+id/nav_user_manager"
+                android:title="@string/strHeaderUserManager" />
+            <item
+                android:id="@+id/nav_song_manager"
+                android:title="@string/strHeaderSongManager" />
+            <item
+                android:id="@+id/nav_banner_manager"
+                android:title="@string/strHeaderBannerManager" />
+            <item
+                android:id="@+id/nav_album_manager"
+                android:title="@string/strHeaderAlbumManager" />
+            <item
+                android:id="@+id/nav_theme_manager"
+                android:title="@string/strHeaderThemeManager" />
+            <item
+                android:id="@+id/nav_types_manager"
+                android:title="@string/strHeaderTypesManager" />
+            <item
+                android:id="@+id/nav_playlist_manager"
+                android:title="@string/strHeaderPlaylistManager" />
+        </menu>
+    </item>
+</menu>
